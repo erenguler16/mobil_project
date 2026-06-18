@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690061254103",
+    "project_id": "ecotoken-2b941",
+    "storage_bucket": "ecotoken-2b941.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690061254103:android:995ddd58a474248bfabf92",
+        "android_client_info": {
+          "package_name": "com.example.ecotoken_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMc9XQ5lRLZbgdVZuywp4t8Rw0CpZqlso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
